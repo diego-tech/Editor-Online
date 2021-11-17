@@ -1,12 +1,13 @@
+<h1>Editor Online</h1>
 Editor HTML, CSS y JavaScript desarrollado con el empaquetador Vite.
 
-```jsx
+```js
 console.log("Editor HTML, CSS y JS");
 ```
 
 Está desarrollado con HTML, CSS y JavaScript y con las librerías `split-grid` y `js-base64`
 
-```jsx
+```js
 // Iniciar Proyecto
 npm run dev
 ```
